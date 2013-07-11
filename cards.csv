@@ -1,0 +1,86 @@
+id,num,name,rarity,effect,cat,cost
+,21,Relance ,C,Défaussez une carte. Piochez deux cartes,Ephémère,3
+,22,Appui,C,Piochez une carte,Ephémère,1
+,23,sac,U,Défaussez un souvenir. Piochez deux souvenirs,Ephémère,2
+,24,Remplacement,U,Piochez une carte. Vous pouvez envoyer dans les limbes une carte de votre défausse ou de votre main,Ephémère,3
+,25,Ecrémage,U,Envoyez un souvenir dans les limbes. Piochez deux cartes,Ephémère,5
+,26,Lobotomie,R,Sélectionnez deux souvenirs de votre pioche et envoyez les dans les limbes. Mélangez votre pioche.,Ephémère,3
+,27,Recrutement hatif,C,Vous pouvez recruter une créature d'un coût inférieur ou égal à 3,Ephémère,4
+,28,Fosse à souvenirs,R,"Au début du tour de chaque joueur, chaque joueur pioche deux cartes",Architecture,3
+,29,Relance à foison,R,Piochez trois cartes,Ephémère,7
+,30,Colère soudaine,R,Détruisez toutes les créatures. Envoyez ce souvenir dans les limbes,Ephémère,7
+,31,Temporisation,U,Renvoyez la créature ciblée dans la main de son propriétaire. Vous pouvez jouer cette carte à tout moment,Ephémère,1
+,32,Annulation,C,Annulez le souvenir lancé. Vous pouvez jouer cette carte à tout moment,Ephémère,3
+,33,Colère programmée,R,Envoyez cette architecture dans les limbes. Détruisez toutes les créatures,Architecture,7
+,34,Recommencement,R,Envoyez cette architecture dans les limbes. Vous pouvez jouer un tour supplémentaire à la fin de ce tour,Architecture,7
+,35,Fouille dans les limbes,R,"Jusqu'à la fin du tour, vous pouvez jouer jusqu'à un souvenir des limbes comme s'il était dans la ligne centrale",Ephémère,4
+,36,Embellie passaère,C,Le parasite ciblé devient une créature 4/4 jusqu'à la fin du tour. Envoyez le parasite dans les limbes à la fin du tour. Vous pouvez jouer ce souvenir à tout moment,Ephémère,2
+,37,Sacrifice pour la bonne cause,U,"Vous pouvez envoyer dans les limbes un souvenir de votre main ou de la défausse. Si vous le faites, vous pouvez ajouter un somnifère ou un parasite à votre défausse",,1
+,38,Fontaine de jouvence,R,Chaque joueur gagne 10 points de victoire,Ephémère,8
+,39,Scarificaion collective,R,Chaque joueur perd 5 points de victoire,Ephémère,6
+,40,Tout compe fait,U,Mettez tout compte fait dans votre déausse. Annulez le sort qui vient d'être joué,Architecture,3
+,41,Profusion de cafards,R,Mettez trois parasites en jeu,Ephémère,7
+,42,Coupe de jouvence,U,"Au début de votre tour, ajoutez un b à votre réserve. Vous pouvez payer 3 pour gagner 4 points de vie",Architecture,5
+,43,Copie conforme,R,Nommez un souvenir joué dans ce tour. Copie conforme réalise l'effet du souvenir,Ephémère,4
+,44,Relance,U,Piochez deux cartes,Ephémère,5
+,45,Coup foudroynt,U,Infligez 3 points de dégat à la créature ciblé,Ephémère,2
+,46,Sélection Darwinienne,R,"Une fois par tour, vous pouvez envoyer dans les limbes un souvenir de la ligne centrale",Architecture,3
+,47,Source inépuisable,R,"Une fois par tour, vous pouvez piocher un souvenir",Architecture,6
+,48,Potion indolore,U,Gagnez deux points de vie. Piochez une carte,Ephémère,5
+,49,Acquisition immobilière,R,Vous pouvez acquérir n'importe quelle construction de la ligne centrale,Ephémère,7
+,50,Acquisition momentanée,R,Vous pouvez acquérir n'importe quel éphémère de la ligne centrale,Ephémère,7
+,51,Relance ,U,Ajoutez 3B a votre réserve,Ephémère,6
+,52,Bol d'air,C,Ajoutez 1B à votre réserve ou gagnez deux points de vie,Ephémère,1
+,53,Immunité,R,Vous ne perdez pas de point de vie lors de la prochaine phase d'attaque,Ephémère,7
+,54,Ressource indolore,C,Ajoutez 1B à votre réserve. Piochez un souvenir,Ephémère,3
+,55,Source Incontrôlable,C,Piochez 2 cartes. Votre adversaire pioche une carte,Ephémère,4
+,56,Recherche effrénée,U,Vous pouvez chercher une carte de votre défausse et la mettre au dessus de votre bibliothèque,Ephémère,4
+,57,Recherche rapide,R,Vous pouvez chercher une carte de votre défausse et l'ajouter à votre main,Ephémère,6
+,58,Victoire rapide,R,Il vous faut 7 PV de moins pour gagner la partie,Architecture,7
+,59,Inspiration,U,"Choisissez : piochez 1 carte, gagnez 1 PV, gagnez 1B, l'adversaire perd 1PV",Ephémère,3
+,60,Régénération,R,"Chaque tour, gagnez 1 PV",Architecture,7
+,61,Combat rapide,R,"Chaque tour, tous les joueurs perdent 1PV",Architecture,5
+,62,Polyvalence,R,"Gagnez 1 PV, l'adversaire perd 1PV, vous invoquez un montre.",Ephémère,8
+,63,Explosion de force,R,Invoquez 5 monstres. Vous les sacrifiez à la fin du tour,Ephémère,8
+,64,Recherche compulsive,U,Aller cherchez dans votre bibliothèque une carte dont le coût d'achat est 3 ou moins.,Ephémère,5
+,65,Achat instantané,U,Vous pouvez gagner un carte du centre avec un coût de 3 ou moins.,Ephémère,4
+,66,Contrainte,C,L'adversaire se défausse d'une carte au hasard de sa main,Ephémère,2
+,67,Échange malencontreux,U,Choisissez une carte de votre main. Votre adversaire gagne cette carte. Vous pouvez cherchez dans sa bbliothèque une carte du même coût et l'ajouter à votre deck.,Action,5
+,68,Accumulation,U,"Cette carte arrive directement en jeu sou votre contrôle lors de son achat. Au moment où vous gagnez cette carte, payez X. Mettez 2*X marqueurs sur cette carte. Une fois par tour, vous pouvez retirer jusqu'à 2 marqueurs de cette carte pour ajouter autant de somnifères à votre réserve. Lorsque Accumulation n'a plus de marqueur, défaussez la dans les Limbes",Action - Architecture,6
+,69,Concentration peu efficace,C,"Lorsque vous jouez cette cate, payez 2*X. Mettez X marqueurs sur cette carte. À tout moment où vous pourriez jouer un éphémère, vous pouvez retirer un marqueur de cette carte pour ajouter un somnifère à votre réserve.",Architecture,5
+,70,Aggression,U,"Action - Quand vous gagnez cette carte, chaque parasite sous votre contrôle inflige un point de victoire à votre adversaire.",Actoin,6
+,71,Rénovation,U,Mettez dans les limbes une cartes de votre main. Vous gagnez une carte du Subconscient avec un coût de 3 ou plus que la carte mise dans les limbes.,Rituel,5
+,72,Espion,C,Piochez un souvenir. Regardez la carte du dessus de votre Bibliothèque. Vous pouvez la remettre sur le dessus de la biliothèque ou la défausser. Regardez la carte du dessus de la bibliothèque de votre adversaire. Vous pouvez la défausser ou la remettre sur le dessus de la bibliothèque.,Rituel,4
+,73,Infiltré,U,Votre adversaire se défausse de deux cartes au hasard de sa main.,,4
+,74,Narcolepsie,,,,
+,75,Avide de puisance,U,Ajouter un mana à votre Réserve. Révélez les cartes du dessus de votre bibliothèque jusqu'à révéler une carte créant du mana. Jouez cette carte et défaussez toutes les autres cartes révélées dans la Réalité.,Rituel,6
+,76,Oubli forcé,R,Nommez une carte. Cherchez dans la bibliothèque de vore adversaire un exemplaire de cette carte et défaussez-là dans sa réalité.,Rituel,3
+,78,Souvenir Évaporé,C,Défaussez votre bibliothèque,Rituel,2
+,79,Sacrifice atonique,R,"Vous vous défaussez de X carte(s), chacun des joueurs gagnent 5*X points de victoire.",Ephémère,8
+,80,Chargezzzz !,R,Tous vos parasites gagnent +X/+0 où X et leur défense.,Ephémère,6
+,81,Le roupillon,C,"Défaussez X cartes de votre main vers votre bibliothèque, pour récupérer X cartes de votre bibliothèque.",Ephémère,5
+,82,La létharrgie hypnotique,C,Récupérer une projection ennemie parmis vos rang.,Ephémère,6
+,83,Vol sans répit,R,Envoie X projections dans les limbes pour voler 2*X points victoire à l'ennemie. ,Ephémère,7
+,84,Entraînement insipide,C,"Envoyez dans les limbes la projection ciblée. Au début du prochain tour de ce joueur, mettez en jeu sous son contrôle une projection 2/2 ",Rituel,3
+,85,Entraînement insistant,U,"Envoyez dans les limbes les deux projections cibleés appartenant au même joueur. Au début du prochain tour de ce joueur, mettez en jeu sous son contrôle deux projections 2/2.",Rituel,3
+,86,Entraînement insoutenable,R,"Envoyez dans les limbes les trois projections ciblées contrôlées par le même joueur. Au début du prochain tour de ce joueur, mettez en jeu sous son contrôle trois projections 2/2 ",Rituel,3
+,87,Avide de marchandise,R,Vous pouvez choisir de mettre dans votre main plutôt que dans la réalité les cartes de mana que vous achetez. Vous pouvez les jouer ce tour.,Architecture,5
+,88,Passe-passe,U,"Piochez une carte. Révélez les deux cartes du dessus de votre bibliothèque. otre adversaire en choisit une et la main dans votre réalité, l'autre sur votre bibliothèque. Piochez une carte.",Rituel,3
+,89,Échange personnalisé,C,Vous et votre adversaire choisissez une carte de vos mains. Vous échangez ces cartes.,Rituel,2
+,90,"Ce soir, c'est régalade",U,Vos créatures sont inblocables ce tour ci.,,6
+,91,Pile ou face,C,"Lorsque vous avez cette carte en main, vous êtes obligés de la jouer dès que possible. Tirez à pile ou face. Si vous gagnez, vous échangez vos architectures avec celles de votre adversaire..",Rituel,4
+,92,"Un peu de chance, en ce bas monde",U,"Tirez à pile ou face. Si vous gagnez, piochez 2 cartes. Sinon, défaussez une carte.",Rituel,3
+,93,Dé pipé,R,"À chaque fois que vous devez faire un jeu de hasard, vous pouvez le refaire une fois, après avoir vu le résultat.",Architecture,5
+,94,Artillerie aléatoire,C,"Tirez à pile ou face. Si vous gagnez, détruisez le parasite ciblé. Sinon, votre adversaire détruit un parasite.",Ephémère,4
+,95,Prescience,U,Vous pouvez voir à tout moment la carte du dessus de l'idéosphère.,Architecture,5
+,96,"Un manque, ça se comble",C,"Allez chercher dans l'idéosphère une carte de souvenir, révélez-là et posez là sur le dessus l'idéosphère.",Action-Rituel,2
+,97,Pallier le manque,R,"Allez chercher dans l'idéosphère une carte de souvenir, révélez-là et posez là sur le dessus l'idéosphère.",Rituel,4
+,98,Soins lépreux,C,"Tirez à pile ou face. Si vous gagnez, gagnez 3 PV. Sinon, Perdez 3 PV.",Rituel,1
+,99,Charge irréfléchie,C,"Tirez à pile ou face. Si vous gagnez, l'adversaire perd 3PV. Sinon, il gagne 3PV.",Rituel,1
+,100,Gain absurde,R,"Chaque tour, tirez 4 fois à pile ou face. Si vous gagnez, vous gagnez la partie.",Architecute,8
+,101,Cadavre exquis,U,"Défaussez une carte de votre main dans les limbes. Tirez à pile ou face. Si vous gagnez, vous pouvez gagnez une carte du subconscient valant au plus deux de plus que la carte défaussée. Sinon, acquérez une carte du centre ayant un coût au moins inférieur à un à celui de la carte défaussée.",Rituel,5
+,102,Alzeihmer,R,"Au début du tour de chaque joueur, s'il a plus de 10 cartes en cumulé dans sa bibliothèqur, sa réaité et sa main, celui-ci défausse une carte Souvenir de sa main dans les Limbes.",Architecture,4
+,103,Chargez la retraite !,U,"Tirez une pièce. Jusqu'au début de votre prochain tour : si c'est pile, tous les parasites attaquent si possible ; sinon, aucune créatue ne peut attaquer.",Rituel,6
+,104,Arène de gladiateurs,U,Le parasite que vous contrôlez et le parasite ciblé se combattent.,Rituel,4
+,105,Plus cher,C,Cette carte coûte 2 à acheter.,Rituel,5
+,106,Intermède,R,Jouez à Shi-fu-mi. Le gagnant pioche une carte. Ce jeu est considéré comme un jeu de hasard.,Instantannée,0

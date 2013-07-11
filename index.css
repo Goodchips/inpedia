@@ -1,0 +1,197 @@
+table{
+	border-spacing: 0px;
+	border-collapse: collapse;
+}
+.wrapper-card-h{
+	width: 180px;
+	height: 240px;
+	float: left;
+	margin: 0px 1px 1px 0px;
+}
+.card-h{
+	width: 300px;
+	height: 220px;
+	border-radius: 10px;
+	border: solid black 10px;
+	font-size: 13px;
+	text-align: center;
+	-webkit-transform: rotate(90deg) scale(0.75);
+	position: relative;
+	left: -70px;
+}
+.card-h .bg{
+	width: 280px;
+	height: 200px;
+	padding: 10px;
+}
+.card-h .content{
+	width: 278px;
+	height: 198px;
+	border: 1px black solid;
+}
+.card-h .first-content{
+	height: 19px;
+	width: 100%;
+	border-bottom: 1px black solid;
+}
+.card-h .first-content table{
+	height: 100%;
+	width: 100%;
+}
+.card-h .second-content{
+	height: 67px;
+	width: 100%;
+	border-bottom: 1px black solid;
+}
+.card-h .second-content table{
+	height: 100%;
+	width: 100%;
+}
+.card-h .third-content{
+	height: 19px;
+	width: 100%;
+	border-bottom: 1px black solid;
+}
+.card-h .third-content table{
+	height: 100%;
+	width: 100%;
+}
+.card-h .fourth-content{
+	height: 79px;
+	width: 100%;
+	border-bottom: 1px black solid;
+}
+.card-h .fourth-content table{
+	height: 100%;
+	width: 100%;
+}
+.card-h .fifth-content{
+	height: 10px;
+	width: 100%;
+}
+.card-h .fifth-content table{
+	height: 100%;
+	width: 100%;
+	font-size: 10px;
+}
+.card-h .title, .card-h .type{
+	width: 50%;
+	text-align: left;
+}
+.card-h .cost, .card-h .category{
+	width: 50%;
+	text-align: right;
+}
+.card-h .rarity{
+	width: 25%;
+	text-align: left;
+	height: 10px;
+	line-height: 10px;
+
+}
+.card-h .id{
+	width: 25%;
+	text-align: right;
+	height: 10px;
+	line-height: 10px;
+
+}
+.card-h .extension{
+	width: 50%;
+	text-align: center;
+	height: 10px;
+	line-height: 10px;
+}
+.wrapper-card-v{
+	height: 240px;
+	width: 180px;
+	float: left;
+	margin: 0px 1px 1px 0px;
+}
+.card-v{
+	height: 300px;
+	width: 220px;
+	border-radius: 10px;
+	border: solid black 10px;
+	font-size: 13px;
+	text-align: center;
+	-webkit-transform: scale(0.75);
+	position: relative;
+	top: -40px;
+	left: -30px;
+}
+.card-v .bg{
+	height: 280px;
+	width: 200px;
+	padding: 10px;
+}
+.card-v .content{
+	height: 278px;
+	width: 198px;
+	border: 1px black solid;
+}
+.card-v .first-content{
+	height: 19px;
+	width: 100%;
+	border-bottom: 1px black solid;
+}
+.card-v .first-content table{
+	height: 100%;
+	width: 100%;
+}
+.card-v .first-content table td.name{
+	width: 80%;
+	text-align: left;
+}
+.card-v .first-content table td.cost{
+	width: 20%;
+	text-align: right;
+}
+.card-v .second-content{
+	height: 109px;
+	width: 100%;
+	border-bottom: 1px black solid;
+}
+.card-v .second-content table{
+	height: 100%;
+	width: 100%;
+}
+.card-v .third-content{
+	height: 19px;
+	width: 100%;
+	border-bottom: 1px black solid;
+}
+.card-v .third-content table{
+	height: 100%;
+	width: 100%;
+}
+.card-v .fourth-content{
+	height: 109px;
+	width: 100%;
+	border-bottom: 1px black solid;
+}
+.card-v .fourth-content table{
+	height: 100%;
+	width: 100%;
+}
+.card-v .fifth-content{
+	height: 18px;
+	width: 100%;
+}
+.card-v .fifth-content table{
+	height: 100%;
+	width: 100%;
+	font-size: 10px;
+}
+.card-v .fifth-content table td.rarity{
+	width: 25%;
+	text-align: left;
+}
+.card-v .fifth-content table td.extension{
+	width: 50%;
+	text-align: center;
+}
+.card-v .fifth-content table td.num{
+	width: 25%;
+	text-align: right;
+}

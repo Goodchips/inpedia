@@ -1,0 +1,9 @@
+id,num,name,effect_solo,effect_multi
+,1,A,"Une fois par tour, vous pouvez piocher une carte, puis défausser une carte","Une fois par tour, vous pouvez piocher deux cartes, puis défausser une carte."
+,2,B,"Une fois par tour, vous pouvez ajouter un mana blanc à votre réserve ou gagner un point de victoire","Une fois par tour, vous pouvez ajouter deux manas blanc et 2 point de victoire à votre réseve"
+,3,C,"Une fois par tour, vous pouvez faire que votre adversaire perde 1 VP","Une fois par tour, vous pouvez faire que votre adversaire perde 3 VP"
+,4,D,"Une fois par tour, vous pouvez banir une carte de votre main/défausse/centre","Une fois par tour, vous pouvez : banir une carte de votre main et/ou bannir une carte de votre défausse et/ou bannir une carte du centre et/ou choisir une carte dans la main de votre adversaire et la défausser."
+,5,E,"Lorsque vous acquérez une carte, vous pouvez mettre cette carte sur le dessus de votre bibliothèque","Lorsque vous acquérez une carte, vous pouvez mettre cette carte dans votre main"
+,6,F,"Une fois par tour, vous pouvez faire Regard 2.","Une fois par tour, vous pouvez faire Regard 2 et faire Regard 2 sur l'adversaire"
+,7,G,"Au début de votre tour, vous pouvez désigner une créature qui acquière fureur jusqu'à la fin du tour",Toutes vos créatures ont fureur
+,8,H,"À chaque fois que vous devez faire un jeu de hasard, vous pouvez le refaire une fois, après avoir vu le résultat.","Chaque tour, tirez 4 fois à pile ou face. Si vous gagnez, vous gagnez la partie."
