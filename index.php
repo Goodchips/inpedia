@@ -1,15 +1,5 @@
 <?php
-
-/*
-$services = getenv("VCAP_SERVICES");
-$mysql_service = $services["mysql-5.1"]["credentials"];
-
-$mysql_host = $mysql_service["host"];
-$mysql_port = $mysql_service["port"];
-$mysql_user = $mysql_service["user"];
-$mysql_pwd = $mysql_service["password"];
-*/
-
+gi
 $services = json_decode(getenv("VCAP_SERVICES"),true);
 $mysql_service = $services['mysql-5.1'][0]["credentials"];
 
@@ -57,9 +47,10 @@ mysql_query("SET NAMES 'utf8'");
 			</div>
 		</div>
 <?php
-			$cpt = $cpt + 1;
-			if ($cpt % 3 == 0 ) { echo '<div style="clear:both"></div>'; }
-			if ($cpt % 12 == 0 ) { echo '<div style="page-break-after:always"></div>'; }
+				$cpt = $cpt + 1;
+				if ($cpt % 3 == 0 ) { echo '<div style="clear:both"></div>'; }
+				if ($cpt % 12 == 0 ) { echo '<div style="page-break-after:always"></div>'; }
+			}
 		}
 	}
 	else{
@@ -74,6 +65,8 @@ mysql_query("SET NAMES 'utf8'");
 	if ($result){
 		$cpt = 0;
 		while($row = mysql_fetch_assoc($result)){
+			$i = ($row['rarity'] == 'C' ? 3 : ($row['rarity'] == 'U' ? 2 : ($row['rarity'] == 'R' ? 1 : 0)));
+			for($j = 0; $j<=$i; $j = $j + 1){ 
 ?>
 		<div class="wrapper-card-v">
 			<div class="card-v">
@@ -89,9 +82,10 @@ mysql_query("SET NAMES 'utf8'");
 			</div>
 		</div>
 <?php
-			$cpt = $cpt + 1;
-			if ($cpt % 3 == 0 ) { echo '<div style="clear:both"></div>'; }
-			if ($cpt % 12 == 0 ) { echo '<div style="page-break-after:always"></div>'; }
+				$cpt = $cpt + 1;
+				if ($cpt % 3 == 0 ) { echo '<div style="clear:both"></div>'; }
+				if ($cpt % 12 == 0 ) { echo '<div style="page-break-after:always"></div>'; }
+			}	
 		}
 	}
 	else{
